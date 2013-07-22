@@ -1,0 +1,19 @@
+div{
+  background-color: #E3E3E3;
+  margin-top: 50px
+}
+div > h1{
+  border-bottom: 1px solid #CCC;
+  margin: 20px;
+}
+div > p{
+  margin: 10px;
+  margin-bottom: 20px;
+  text-indent: 20px;
+  text-align: justify;
+}
+button{
+  position: fixed;
+  top: 10px;
+  left: 25%;
+}
